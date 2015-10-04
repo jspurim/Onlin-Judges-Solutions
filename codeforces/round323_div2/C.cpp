@@ -1,3 +1,6 @@
+/**
+ * Problem: http://codeforces.com/contest/583/problem/C
+ */
 #include <bits/stdc++.h>
 
 #ifdef DEBUG
