@@ -1,12 +1,8 @@
 /*
-* Problem: 
+* Problem: https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&category=706&page=show_problem&problem=5375
 */
 #include <bits/stdc++.h>
 using namespace std;
-
-int p[30];
-bool v[30];
-
 
 int main(){
 
